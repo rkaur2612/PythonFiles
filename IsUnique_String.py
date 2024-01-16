@@ -7,7 +7,7 @@ Created on Mon Jan 15 17:02:59 2024
 
 #code to check if string is unique
 #defined string alpha having all alphabets and space
-#iterating through ecah charcater in string and removing the char if it is alpha
+#iterating through each charcater in string and removing the char if it is in alpha
 #if char is not in alpha, it means the char is repeated, therefore exit loop and return false else return true at end of for loop
 def is_unique(input_str):
     alpha = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ "
