@@ -21,10 +21,10 @@ Based on the clusters created we will recommend personalized and effective marke
 
 Model divided customers into 4 clusters:
 
-1. Power Shoppers : Highest highest recency, frequency, and monetary score.
-2. Loyal customers:  Moderate recency, frequency, and monetary values. These customers still spend more and purchase more frequently than clusters 2 and 3.
-3. Inactive/ At-risk customers: Lowest RFM score. These customers spend less, don’t buy often, and haven’t made a purchase recently.
-4. Recent Customers: High Recency,  relatively lower frequency and moderate monetary values. Potential long-term customers.
+1. _Power Shoppers_ : Highest highest recency, frequency, and monetary score.
+2. _Loyal customers_:  Moderate recency, frequency, and monetary values. These customers still spend more and purchase more frequently than clusters 2 and 3.
+3. _Inactive/ At-risk customers_: Lowest RFM score. These customers spend less, don’t buy often, and haven’t made a purchase recently.
+4. _Recent Customers_: High Recency,  relatively lower frequency and moderate monetary values. Potential long-term customers.
 
 _Personalized Recommendation_
  1. Power Shoppers: Offer personalized special discounts, early access, and other perks to make them feel valued and appreciated.
