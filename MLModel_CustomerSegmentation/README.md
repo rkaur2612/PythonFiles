@@ -7,7 +7,8 @@ Based on the clusters created we will recommend personalized and effective marke
 2. Visualizing and Interpreting segments.
 3. Provide recommendations for marketing strategies.
 
-**Dataset**: We are using [Online Retail dataset] (https://github.com/rkaur2612/PythonProjects/blob/main/MLModel_CustomerSegmentation/Online%20Retail.xlsx) as a sample to train our model.
+**Dataset**: 
+We are using [Online Retail dataset](https://github.com/rkaur2612/PythonProjects/blob/main/MLModel_CustomerSegmentation/Online%20Retail.xlsx) as a sample to train our model.
 
 **Methodology**
 1. Data Preprocessing: Explore and Clean the dataset to remove missing values or inconsistent entries.
